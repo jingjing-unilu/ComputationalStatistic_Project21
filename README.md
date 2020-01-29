@@ -13,7 +13,14 @@ ComputationalStatistic-project@UNI_LU
 
 - Content:
     1. get data
+    
     2. test
-        - 2.1 chisq.test（chi-squared test）
-        - 2.2 ks.test (Kolmogorov–Smirnov test)
+        - 2.1 Chi-squared Test（chisq.test）
+        - 2.2 Kolmogorov–Smirnov test (ks.test)
         - 2.3 Empirical Tests
+            - 2.3.1 Gap Test (gap.test)
+            - 2.3.2 Serial Test (serial.test)
+            - 2.3.3 Equidistribution Test (Frequence Test-freq.test)
+
+    3. Conclusion
+    4. Reference
