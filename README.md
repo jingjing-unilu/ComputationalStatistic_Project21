@@ -14,5 +14,6 @@ ComputationalStatistic-project@UNI_LU
 - Content:
     1. get data
     2. test
-        2.1 chisq.test（chi-squared test）
-        2.2 ks.test (Kolmogorov–Smirnov test)
+        - 2.1 chisq.test（chi-squared test）
+        - 2.2 ks.test (Kolmogorov–Smirnov test)
+        - 2.3 Empirical Tests
