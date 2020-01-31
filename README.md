@@ -1,3 +1,4 @@
+#### This project could be found at https://github.com/BraveJean/ComputationalStatistic_Project21
 # ComputationalStatistic-project
 ComputationalStatistic-project@UNI_LU
 # Project 21 : Compairing two given random requences
@@ -13,7 +14,7 @@ ComputationalStatistic-project@UNI_LU
 
 - Content:
     1. get data
-    
+
     2. test
         - 2.1 Chi-squared Test（chisq.test）
         - 2.2 Kolmogorov–Smirnov test (ks.test)
