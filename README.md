@@ -15,13 +15,25 @@ ComputationalStatistic-project@UNI_LU
 - Content:
     1. get data
 
-    2. test
-        - 2.1 Chi-squared Test（chisq.test）
-        - 2.2 Kolmogorov–Smirnov test (ks.test)
-        - 2.3 Empirical Tests
-            - 2.3.1 Gap Test (gap.test)
-            - 2.3.2 Serial Test (serial.test)
-            - 2.3.3 Equidistribution Test (Frequence Test-freq.test)
+   - Content:
+    1. get data
+        1.1 Correlation Test
+        
+    2. Distribution Test
+       - 2.1 Equidistribution Test (Frequecy Test)
+            - 2.1.1 Chi-squared Test（chisq.test）
+                - 1）Test if 'X1' , 'X2' is uniform distribution.
+                - 2）Test if 'X1' and 'X2' is from same uniform distribution.
+            - 2.1.2 Kolmogorov–Smirnov test (ks.test)
+            
+        - 2.2 Gap Test (gap.test)
+            - 1) From 0-0.5
+            - 2) From 0.5-1.0
+            
+        - 2.3 Serial Test (serial.test)
+        
+        - 2.4 Equidistribution Test (Use Frequence Test-freq.test)
 
     3. Conclusion
-    4. Reference
+    4. Acknowledgement
+    5. Reference
